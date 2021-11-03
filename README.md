@@ -1,2 +1,13 @@
 # Simple Keylogger using C++
- Keylogger Using C++ #keylogger #hacking
+ 
+
+Building c++ executable :
+
+Install Microsoft visual studo :
+
+create a c++ project.
+
+use the provided source code.
+
+
+Thanks :D
