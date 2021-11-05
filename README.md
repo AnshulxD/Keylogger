@@ -3,7 +3,7 @@
 
 Building c++ executable :
 
-Install Microsoft visual studo :
+Install Microsoft visual studio :
 
 create a c++ project.
 
